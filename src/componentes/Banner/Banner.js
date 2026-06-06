@@ -1,13 +1,12 @@
 import './Banner.css';
 
 //JSX:
-
-function Banner() {
+ export const Banner = () => {
+ 
     return (
     <header className =  "banner"> 
-    <img src="/imagens/imagens/banner.png" alt="Banner principal da pagina do organo" />
+    <img src="/imagens/banner.png" alt="Banner principal da pagina do organo" />
     </header>
 )
     
 }
-export default Banner;
