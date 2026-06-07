@@ -7,8 +7,9 @@ function App() {
   return (
     <div className="App">
       <Banner/>
-      <CampoTexto/>
-     
+      <CampoTexto label="Nome"/>
+      <CampoTexto label="cargo"/>
+      <CampoTexto label="imagen"/>
     </div>
   );
 }
