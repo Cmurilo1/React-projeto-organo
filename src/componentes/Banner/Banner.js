@@ -10,3 +10,4 @@ import './Banner.css';
 )
     
 }
+export default Banner;
