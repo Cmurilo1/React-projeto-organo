@@ -1,13 +1,14 @@
-.campotexto{
+.campo-texto{
     margin: 24px 0;
 
 }
-.campotexto label{
+.campo-texto label{
     display: block;
-    font-size: 24px;
     margin-bottom: 8px;
+    font-size: 24px;
+    
 }
-.campotexto input{
+.campo-texto input{
     background-color:#fff; 
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
     width: 100%;
